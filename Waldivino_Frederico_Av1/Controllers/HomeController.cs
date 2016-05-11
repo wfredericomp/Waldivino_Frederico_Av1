@@ -8,7 +8,7 @@ namespace Waldivino_Frederico_Av1.Controllers
 {
     public class HomeController : Controller
     {
-        // GET: Home
+        // GET: Home teste
         public ActionResult Index()
         {
             return View();
